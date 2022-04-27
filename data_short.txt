@@ -1,0 +1,77 @@
+{
+  "messageid" : "977c85ee-2f1c-4792-901e-a61240aa3958",
+  "mdsversion" : "1.0",
+  "@timestamp" : "2022-04-22T01:50:27.630Z",
+  "place" : {
+    "id" : "60d3309ab2cfd7d1a4c969dc",
+    "name" : "Testing",
+    "type" : "undefined",
+    "location" : {
+      "lat" : 10.8231,
+      "lon" : 106.6297,
+      "alt" : 0.0
+    },
+    "aisle" : {
+      "id" : "",
+      "name" : "",
+      "level" : "",
+      "coordinate" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+      }
+    }
+  },
+  "sensor" : {
+    "id" : "60d42b8010ed56d932cf411b",
+    "type" : "Camera",
+    "description" : "\"Main door - Home\"",
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "analyticsModule" : null,
+  "object" : {
+    "id" : "4",
+    "speed" : 0.0,
+    "direction" : 0.0,
+    "orientation" : 0.0,
+    "vehicle" : {
+      "type" : "truck",
+      "make" : "dodge",
+      "model" : "NA",
+      "color" : "white",
+      "licenseState" : "NA",
+      "license" : "BRS3769",
+      "confidence" : 0.99797183275222756
+    },
+    "bbox" : {
+      "topleftx" : 788,
+      "toplefty" : 427,
+      "bottomrightx" : 828,
+      "bottomrighty" : 446
+    },
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "event" : {
+    "id" : "f1b50f53-dce0-4cde-aeb5-9228fe0266b8",
+    "type" : "moving"
+  },
+  "videoPath" : ""
+}

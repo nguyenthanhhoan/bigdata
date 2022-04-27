@@ -1,0 +1,1232 @@
+[{
+  "messageid" : "977c85ee-2f1c-4792-901e-a61240aa3958",
+  "mdsversion" : "1.0",
+  "@timestamp" : "2022-04-22T01:50:27.630Z",
+  "place" : {
+    "id" : "60d3309ab2cfd7d1a4c969dc",
+    "name" : "Testing",
+    "type" : "undefined",
+    "location" : {
+      "lat" : 10.8231,
+      "lon" : 106.6297,
+      "alt" : 0.0
+    },
+    "aisle" : {
+      "id" : "",
+      "name" : "",
+      "level" : "",
+      "coordinate" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+      }
+    }
+  },
+  "sensor" : {
+    "id" : "60d42b8010ed56d932cf411b",
+    "type" : "Camera",
+    "description" : "\"Main door - Home\"",
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "analyticsModule" : null,
+  "object" : {
+    "id" : "4",
+    "speed" : 0.0,
+    "direction" : 0.0,
+    "orientation" : 0.0,
+    "vehicle" : {
+      "type" : "truck",
+      "make" : "dodge",
+      "model" : "NA",
+      "color" : "white",
+      "licenseState" : "NA",
+      "license" : "BRS3769",
+      "confidence" : 0.99797183275222756
+    },
+    "bbox" : {
+      "topleftx" : 788,
+      "toplefty" : 427,
+      "bottomrightx" : 828,
+      "bottomrighty" : 446
+    },
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "event" : {
+    "id" : "f1b50f53-dce0-4cde-aeb5-9228fe0266b8",
+    "type" : "moving"
+  },
+  "videoPath" : ""
+},
+{
+  "messageid" : "93b3792f-8bfc-405a-9966-e408cf2e6230",
+  "mdsversion" : "1.0",
+  "@timestamp" : "2022-04-22T01:54:03.793Z",
+  "place" : {
+    "id" : "60d3309ab2cfd7d1a4c969dc",
+    "name" : "Testing",
+    "type" : "undefined",
+    "location" : {
+      "lat" : 10.8231,
+      "lon" : 106.6297,
+      "alt" : 0.0
+    },
+    "aisle" : {
+      "id" : "",
+      "name" : "",
+      "level" : "",
+      "coordinate" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+      }
+    }
+  },
+  "sensor" : {
+    "id" : "60d42b8010ed56d932cf411b",
+    "type" : "Camera",
+    "description" : "\"Main door - Home\"",
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "analyticsModule" : null,
+  "object" : {
+    "id" : "11",
+    "speed" : 0.0,
+    "direction" : 0.0,
+    "orientation" : 0.0,
+    "vehicle" : {
+      "type" : "truck",
+      "make" : "chevrolet",
+      "model" : "NA",
+      "color" : "white",
+      "licenseState" : "NA",
+      "license" : "SEF096",
+      "confidence" : 0.99988675117492676
+    },
+    "bbox" : {
+      "topleftx" : 78,
+      "toplefty" : 443,
+      "bottomrightx" : 122,
+      "bottomrighty" : 466
+    },
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "event" : {
+    "id" : "08f811c1-faaa-4512-9aed-fa4c9138f3db",
+    "type" : "moving"
+  },
+  "videoPath" : ""
+},
+{
+  "messageid" : "87017db4-739f-42f1-9f40-6cee05aa0c0a",
+  "mdsversion" : "1.0",
+  "@timestamp" : "2022-04-22T02:02:30.914Z",
+  "place" : {
+    "id" : "60d3309ab2cfd7d1a4c969dc",
+    "name" : "Testing",
+    "type" : "undefined",
+    "location" : {
+      "lat" : 10.8231,
+      "lon" : 106.6297,
+      "alt" : 0.0
+    },
+    "aisle" : {
+      "id" : "",
+      "name" : "",
+      "level" : "",
+      "coordinate" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+      }
+    }
+  },
+  "sensor" : {
+    "id" : "60d42b8010ed56d932cf411b",
+    "type" : "Camera",
+    "description" : "\"Main door - Home\"",
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "analyticsModule" : null,
+  "object" : {
+    "id" : "18",
+    "speed" : 0.0,
+    "direction" : 0.0,
+    "orientation" : 0.0,
+    "vehicle" : {
+      "type" : "truck",
+      "make" : "bmw",
+      "model" : "NA",
+      "color" : "black",
+      "licenseState" : "NA",
+      "license" : "SEF096",
+      "confidence" : 0.99997496604919422
+    },
+    "bbox" : {
+      "topleftx" : 103,
+      "toplefty" : 437,
+      "bottomrightx" : 146,
+      "bottomrighty" : 459
+    },
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "event" : {
+    "id" : "f7a2e962-3d2e-4be8-829a-c9a7f7344cec",
+    "type" : "moving"
+  },
+  "videoPath" : ""
+},
+{
+  "messageid" : "74d128b0-3731-4583-b1fc-3e1473bbe324",
+  "mdsversion" : "1.0",
+  "@timestamp" : "2022-04-22T02:04:25.674Z",
+  "place" : {
+    "id" : "60d3309ab2cfd7d1a4c969dc",
+    "name" : "Testing",
+    "type" : "undefined",
+    "location" : {
+      "lat" : 10.8231,
+      "lon" : 106.6297,
+      "alt" : 0.0
+    },
+    "aisle" : {
+      "id" : "",
+      "name" : "",
+      "level" : "",
+      "coordinate" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+      }
+    }
+  },
+  "sensor" : {
+    "id" : "60d42b8010ed56d932cf411b",
+    "type" : "Camera",
+    "description" : "\"Main door - Home\"",
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "analyticsModule" : null,
+  "object" : {
+    "id" : "31",
+    "speed" : 0.0,
+    "direction" : 0.0,
+    "orientation" : 0.0,
+    "vehicle" : {
+      "type" : "truck",
+      "make" : "dodge",
+      "model" : "NA",
+      "color" : "white",
+      "licenseState" : "NA",
+      "license" : "BRS3769",
+      "confidence" : 0.99982929229736328
+    },
+    "bbox" : {
+      "topleftx" : 763,
+      "toplefty" : 418,
+      "bottomrightx" : 799,
+      "bottomrighty" : 435
+    },
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "event" : {
+    "id" : "bf77fb05-197d-42fb-af24-dd35df20ab33",
+    "type" : "moving"
+  },
+  "videoPath" : ""
+},
+{
+  "messageid" : "f6081f90-9daf-48bd-9677-5a1c7d1a0098",
+  "mdsversion" : "1.0",
+  "@timestamp" : "2022-04-22T02:04:31.894Z",
+  "place" : {
+    "id" : "60d3309ab2cfd7d1a4c969dc",
+    "name" : "Testing",
+    "type" : "undefined",
+    "location" : {
+      "lat" : 10.8231,
+      "lon" : 106.6297,
+      "alt" : 0.0
+    },
+    "aisle" : {
+      "id" : "",
+      "name" : "",
+      "level" : "",
+      "coordinate" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+      }
+    }
+  },
+  "sensor" : {
+    "id" : "60d42b8010ed56d932cf411b",
+    "type" : "Camera",
+    "description" : "\"Main door - Home\"",
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "analyticsModule" : null,
+  "object" : {
+    "id" : "33",
+    "speed" : 0.0,
+    "direction" : 0.0,
+    "orientation" : 0.0,
+    "vehicle" : {
+      "type" : "NA",
+      "make" : "toyota",
+      "model" : "NA",
+      "color" : "black",
+      "licenseState" : "NA",
+      "license" : "SEF096",
+      "confidence" : 0.99996244907379139
+    },
+    "bbox" : {
+      "topleftx" : 161,
+      "toplefty" : 427,
+      "bottomrightx" : 200,
+      "bottomrighty" : 447
+    },
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "event" : {
+    "id" : "7425c516-6fbb-4926-9833-79de70bdf618",
+    "type" : "moving"
+  },
+  "videoPath" : ""
+},
+{
+  "messageid" : "7a84a64d-548b-4126-8002-47e2e3e02f92",
+  "mdsversion" : "1.0",
+  "@timestamp" : "2022-04-22T02:09:13.192Z",
+  "place" : {
+    "id" : "60d3309ab2cfd7d1a4c969dc",
+    "name" : "Testing",
+    "type" : "undefined",
+    "location" : {
+      "lat" : 10.8231,
+      "lon" : 106.6297,
+      "alt" : 0.0
+    },
+    "aisle" : {
+      "id" : "",
+      "name" : "",
+      "level" : "",
+      "coordinate" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+      }
+    }
+  },
+  "sensor" : {
+    "id" : "60d42b8010ed56d932cf411b",
+    "type" : "Camera",
+    "description" : "\"Main door - Home\"",
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "analyticsModule" : null,
+  "object" : {
+    "id" : "79",
+    "speed" : 0.0,
+    "direction" : 0.0,
+    "orientation" : 0.0,
+    "vehicle" : {
+      "type" : "sedan",
+      "make" : "audi",
+      "model" : "NA",
+      "color" : "white",
+      "licenseState" : "NA",
+      "license" : "BPG4688",
+      "confidence" : 0.99349372727530316
+    },
+    "bbox" : {
+      "topleftx" : 106,
+      "toplefty" : 448,
+      "bottomrightx" : 158,
+      "bottomrighty" : 470
+    },
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "event" : {
+    "id" : "442450ec-e104-4c93-8a79-eda34318a7dd",
+    "type" : "moving"
+  },
+  "videoPath" : ""
+},
+{
+  "messageid" : "d5e31e66-e752-48c9-94fb-3b93c62db103",
+  "mdsversion" : "1.0",
+  "@timestamp" : "2022-04-22T02:11:02.640Z",
+  "place" : {
+    "id" : "60d3309ab2cfd7d1a4c969dc",
+    "name" : "Testing",
+    "type" : "undefined",
+    "location" : {
+      "lat" : 10.8231,
+      "lon" : 106.6297,
+      "alt" : 0.0
+    },
+    "aisle" : {
+      "id" : "",
+      "name" : "",
+      "level" : "",
+      "coordinate" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+      }
+    }
+  },
+  "sensor" : {
+    "id" : "60d42b8010ed56d932cf411b",
+    "type" : "Camera",
+    "description" : "\"Main door - Home\"",
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "analyticsModule" : null,
+  "object" : {
+    "id" : "79",
+    "speed" : 0.0,
+    "direction" : 0.0,
+    "orientation" : 0.0,
+    "vehicle" : {
+      "type" : "sedan",
+      "make" : "audi",
+      "model" : "NA",
+      "color" : "white",
+      "licenseState" : "NA",
+      "license" : "HPG4688",
+      "confidence" : 0.9989049604960849
+    },
+    "bbox" : {
+      "topleftx" : 252,
+      "toplefty" : 398,
+      "bottomrightx" : 285,
+      "bottomrighty" : 415
+    },
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "event" : {
+    "id" : "1be724f9-413c-4de7-af4c-95557ec02cf6",
+    "type" : "moving"
+  },
+  "videoPath" : ""
+},
+{
+  "messageid" : "9270cae7-a956-406b-bbf9-849396ca9382",
+  "mdsversion" : "1.0",
+  "@timestamp" : "2022-04-22T02:17:00.236Z",
+  "place" : {
+    "id" : "60d3309ab2cfd7d1a4c969dc",
+    "name" : "Testing",
+    "type" : "undefined",
+    "location" : {
+      "lat" : 10.8231,
+      "lon" : 106.6297,
+      "alt" : 0.0
+    },
+    "aisle" : {
+      "id" : "",
+      "name" : "",
+      "level" : "",
+      "coordinate" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+      }
+    }
+  },
+  "sensor" : {
+    "id" : "60d42b8010ed56d932cf411b",
+    "type" : "Camera",
+    "description" : "\"Main door - Home\"",
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "analyticsModule" : null,
+  "object" : {
+    "id" : "122",
+    "speed" : 0.0,
+    "direction" : 0.0,
+    "orientation" : 0.0,
+    "vehicle" : {
+      "type" : "largevehicle",
+      "make" : "audi",
+      "model" : "NA",
+      "color" : "white",
+      "licenseState" : "NA",
+      "license" : "BPG4688",
+      "confidence" : 0.99764542920248844
+    },
+    "bbox" : {
+      "topleftx" : 109,
+      "toplefty" : 432,
+      "bottomrightx" : 155,
+      "bottomrighty" : 453
+    },
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "event" : {
+    "id" : "ffa8d912-6902-4e56-87c0-4f7f2e325846",
+    "type" : "moving"
+  },
+  "videoPath" : ""
+},
+{
+  "messageid" : "218e86a8-da6f-45b6-8978-d122dbc235ae",
+  "mdsversion" : "1.0",
+  "@timestamp" : "2022-04-22T02:53:46.741Z",
+  "place" : {
+    "id" : "60d3309ab2cfd7d1a4c969dc",
+    "name" : "Testing",
+    "type" : "undefined",
+    "location" : {
+      "lat" : 10.8231,
+      "lon" : 106.6297,
+      "alt" : 0.0
+    },
+    "aisle" : {
+      "id" : "",
+      "name" : "",
+      "level" : "",
+      "coordinate" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+      }
+    }
+  },
+  "sensor" : {
+    "id" : "60d42b8010ed56d932cf411b",
+    "type" : "Camera",
+    "description" : "\"Main door - Home\"",
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "analyticsModule" : null,
+  "object" : {
+    "id" : "4",
+    "speed" : 0.0,
+    "direction" : 0.0,
+    "orientation" : 0.0,
+    "vehicle" : {
+      "type" : "truck",
+      "make" : "dodge",
+      "model" : "NA",
+      "color" : "white",
+      "licenseState" : "NA",
+      "license" : "BRS3769",
+      "confidence" : 0.99797183275222756
+    },
+    "bbox" : {
+      "topleftx" : 788,
+      "toplefty" : 427,
+      "bottomrightx" : 828,
+      "bottomrighty" : 446
+    },
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "event" : {
+    "id" : "075e9c6f-1594-4342-8c18-ecf561a31886",
+    "type" : "moving"
+  },
+  "videoPath" : ""
+},
+{
+  "messageid" : "27fbb17d-007f-4acf-9d22-457b418bf769",
+  "mdsversion" : "1.0",
+  "@timestamp" : "2022-04-22T02:57:16.744Z",
+  "place" : {
+    "id" : "60d3309ab2cfd7d1a4c969dc",
+    "name" : "Testing",
+    "type" : "undefined",
+    "location" : {
+      "lat" : 10.8231,
+      "lon" : 106.6297,
+      "alt" : 0.0
+    },
+    "aisle" : {
+      "id" : "",
+      "name" : "",
+      "level" : "",
+      "coordinate" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+      }
+    }
+  },
+  "sensor" : {
+    "id" : "60d42b8010ed56d932cf411b",
+    "type" : "Camera",
+    "description" : "\"Main door - Home\"",
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "analyticsModule" : null,
+  "object" : {
+    "id" : "11",
+    "speed" : 0.0,
+    "direction" : 0.0,
+    "orientation" : 0.0,
+    "vehicle" : {
+      "type" : "truck",
+      "make" : "chevrolet",
+      "model" : "NA",
+      "color" : "white",
+      "licenseState" : "NA",
+      "license" : "SEF096",
+      "confidence" : 0.99988675117492676
+    },
+    "bbox" : {
+      "topleftx" : 78,
+      "toplefty" : 443,
+      "bottomrightx" : 122,
+      "bottomrighty" : 466
+    },
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "event" : {
+    "id" : "73cfa79b-21b3-4135-8d4f-d100e881f09b",
+    "type" : "moving"
+  },
+  "videoPath" : ""
+},
+{
+  "messageid" : "ce150695-bf52-4f75-bddd-280017961575",
+  "mdsversion" : "1.0",
+  "@timestamp" : "2022-04-22T03:05:32.160Z",
+  "place" : {
+    "id" : "60d3309ab2cfd7d1a4c969dc",
+    "name" : "Testing",
+    "type" : "undefined",
+    "location" : {
+      "lat" : 10.8231,
+      "lon" : 106.6297,
+      "alt" : 0.0
+    },
+    "aisle" : {
+      "id" : "",
+      "name" : "",
+      "level" : "",
+      "coordinate" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+      }
+    }
+  },
+  "sensor" : {
+    "id" : "60d42b8010ed56d932cf411b",
+    "type" : "Camera",
+    "description" : "\"Main door - Home\"",
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "analyticsModule" : null,
+  "object" : {
+    "id" : "18",
+    "speed" : 0.0,
+    "direction" : 0.0,
+    "orientation" : 0.0,
+    "vehicle" : {
+      "type" : "truck",
+      "make" : "bmw",
+      "model" : "NA",
+      "color" : "black",
+      "licenseState" : "NA",
+      "license" : "SEF096",
+      "confidence" : 0.99997496604919422
+    },
+    "bbox" : {
+      "topleftx" : 103,
+      "toplefty" : 437,
+      "bottomrightx" : 146,
+      "bottomrighty" : 459
+    },
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "event" : {
+    "id" : "f44d9e82-48cc-49a0-b4b1-df386f91adf1",
+    "type" : "moving"
+  },
+  "videoPath" : ""
+},
+{
+  "messageid" : "dea01836-e14e-4c5e-8fce-ce783cde2203",
+  "mdsversion" : "1.0",
+  "@timestamp" : "2022-04-22T03:07:24.505Z",
+  "place" : {
+    "id" : "60d3309ab2cfd7d1a4c969dc",
+    "name" : "Testing",
+    "type" : "undefined",
+    "location" : {
+      "lat" : 10.8231,
+      "lon" : 106.6297,
+      "alt" : 0.0
+    },
+    "aisle" : {
+      "id" : "",
+      "name" : "",
+      "level" : "",
+      "coordinate" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+      }
+    }
+  },
+  "sensor" : {
+    "id" : "60d42b8010ed56d932cf411b",
+    "type" : "Camera",
+    "description" : "\"Main door - Home\"",
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "analyticsModule" : null,
+  "object" : {
+    "id" : "31",
+    "speed" : 0.0,
+    "direction" : 0.0,
+    "orientation" : 0.0,
+    "vehicle" : {
+      "type" : "truck",
+      "make" : "dodge",
+      "model" : "NA",
+      "color" : "white",
+      "licenseState" : "NA",
+      "license" : "BRS3769",
+      "confidence" : 0.99982929229736328
+    },
+    "bbox" : {
+      "topleftx" : 763,
+      "toplefty" : 418,
+      "bottomrightx" : 799,
+      "bottomrighty" : 435
+    },
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "event" : {
+    "id" : "7911bd44-f9a6-4f61-965c-8cf6f034a467",
+    "type" : "moving"
+  },
+  "videoPath" : ""
+},
+{
+  "messageid" : "bed582b5-2d46-430e-8294-ad1adbcb5830",
+  "mdsversion" : "1.0",
+  "@timestamp" : "2022-04-22T03:07:30.532Z",
+  "place" : {
+    "id" : "60d3309ab2cfd7d1a4c969dc",
+    "name" : "Testing",
+    "type" : "undefined",
+    "location" : {
+      "lat" : 10.8231,
+      "lon" : 106.6297,
+      "alt" : 0.0
+    },
+    "aisle" : {
+      "id" : "",
+      "name" : "",
+      "level" : "",
+      "coordinate" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+      }
+    }
+  },
+  "sensor" : {
+    "id" : "60d42b8010ed56d932cf411b",
+    "type" : "Camera",
+    "description" : "\"Main door - Home\"",
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "analyticsModule" : null,
+  "object" : {
+    "id" : "33",
+    "speed" : 0.0,
+    "direction" : 0.0,
+    "orientation" : 0.0,
+    "vehicle" : {
+      "type" : "NA",
+      "make" : "toyota",
+      "model" : "NA",
+      "color" : "black",
+      "licenseState" : "NA",
+      "license" : "SEF096",
+      "confidence" : 0.99996244907379139
+    },
+    "bbox" : {
+      "topleftx" : 161,
+      "toplefty" : 427,
+      "bottomrightx" : 200,
+      "bottomrighty" : 447
+    },
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "event" : {
+    "id" : "f69c4cf9-61f3-4a12-9be4-8d769acc22b5",
+    "type" : "moving"
+  },
+  "videoPath" : ""
+},
+{
+  "messageid" : "932bd9e4-a9e2-4334-8cf3-ca64df9a25cf",
+  "mdsversion" : "1.0",
+  "@timestamp" : "2022-04-22T03:11:49.226Z",
+  "place" : {
+    "id" : "60d3309ab2cfd7d1a4c969dc",
+    "name" : "Testing",
+    "type" : "undefined",
+    "location" : {
+      "lat" : 10.8231,
+      "lon" : 106.6297,
+      "alt" : 0.0
+    },
+    "aisle" : {
+      "id" : "",
+      "name" : "",
+      "level" : "",
+      "coordinate" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+      }
+    }
+  },
+  "sensor" : {
+    "id" : "60d42b8010ed56d932cf411b",
+    "type" : "Camera",
+    "description" : "\"Main door - Home\"",
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "analyticsModule" : null,
+  "object" : {
+    "id" : "79",
+    "speed" : 0.0,
+    "direction" : 0.0,
+    "orientation" : 0.0,
+    "vehicle" : {
+      "type" : "sedan",
+      "make" : "audi",
+      "model" : "NA",
+      "color" : "white",
+      "licenseState" : "NA",
+      "license" : "BPG4688",
+      "confidence" : 0.99349372727530316
+    },
+    "bbox" : {
+      "topleftx" : 106,
+      "toplefty" : 448,
+      "bottomrightx" : 158,
+      "bottomrighty" : 470
+    },
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "event" : {
+    "id" : "ebbc0ecf-3ac5-473f-ad25-ea82d4f97f01",
+    "type" : "moving"
+  },
+  "videoPath" : ""
+},
+{
+  "messageid" : "3e4dba73-1543-4b63-98b1-6b481da51d71",
+  "mdsversion" : "1.0",
+  "@timestamp" : "2022-04-22T03:13:38.242Z",
+  "place" : {
+    "id" : "60d3309ab2cfd7d1a4c969dc",
+    "name" : "Testing",
+    "type" : "undefined",
+    "location" : {
+      "lat" : 10.8231,
+      "lon" : 106.6297,
+      "alt" : 0.0
+    },
+    "aisle" : {
+      "id" : "",
+      "name" : "",
+      "level" : "",
+      "coordinate" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+      }
+    }
+  },
+  "sensor" : {
+    "id" : "60d42b8010ed56d932cf411b",
+    "type" : "Camera",
+    "description" : "\"Main door - Home\"",
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "analyticsModule" : null,
+  "object" : {
+    "id" : "79",
+    "speed" : 0.0,
+    "direction" : 0.0,
+    "orientation" : 0.0,
+    "vehicle" : {
+      "type" : "sedan",
+      "make" : "audi",
+      "model" : "NA",
+      "color" : "white",
+      "licenseState" : "NA",
+      "license" : "HPG4688",
+      "confidence" : 0.9989049604960849
+    },
+    "bbox" : {
+      "topleftx" : 252,
+      "toplefty" : 398,
+      "bottomrightx" : 285,
+      "bottomrighty" : 415
+    },
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "event" : {
+    "id" : "ddc2f2e5-2181-489d-a272-568bee20ae2c",
+    "type" : "moving"
+  },
+  "videoPath" : ""
+},
+{
+  "messageid" : "179d64d8-f76a-41cc-b422-e51256b8e203",
+  "mdsversion" : "1.0",
+  "@timestamp" : "2022-04-22T03:19:32.178Z",
+  "place" : {
+    "id" : "60d3309ab2cfd7d1a4c969dc",
+    "name" : "Testing",
+    "type" : "undefined",
+    "location" : {
+      "lat" : 10.8231,
+      "lon" : 106.6297,
+      "alt" : 0.0
+    },
+    "aisle" : {
+      "id" : "",
+      "name" : "",
+      "level" : "",
+      "coordinate" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+      }
+    }
+  },
+  "sensor" : {
+    "id" : "60d42b8010ed56d932cf411b",
+    "type" : "Camera",
+    "description" : "\"Main door - Home\"",
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "analyticsModule" : null,
+  "object" : {
+    "id" : "122",
+    "speed" : 0.0,
+    "direction" : 0.0,
+    "orientation" : 0.0,
+    "vehicle" : {
+      "type" : "largevehicle",
+      "make" : "audi",
+      "model" : "NA",
+      "color" : "white",
+      "licenseState" : "NA",
+      "license" : "BPG4688",
+      "confidence" : 0.99764542920248844
+    },
+    "bbox" : {
+      "topleftx" : 109,
+      "toplefty" : 432,
+      "bottomrightx" : 155,
+      "bottomrighty" : 453
+    },
+    "location" : {
+      "lat" : 0.0,
+      "lon" : 0.0,
+      "alt" : 0.0
+    },
+    "coordinate" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    }
+  },
+  "event" : {
+    "id" : "d7b87b54-6a6d-40e3-92f9-f882bd6712de",
+    "type" : "moving"
+  },
+  "videoPath" : ""
+}]
