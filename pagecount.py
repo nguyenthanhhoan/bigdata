@@ -6,7 +6,7 @@ def filter_post_get(line):
   
 def get_page(line):
    page = line.split(",")[2].split()[1]
-   page = page.split("")[0]
+   page = page.split("?")[0]
    return page
    
 def filter_php(line):
