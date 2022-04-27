@@ -22,3 +22,4 @@ result = pages_php.map(lambda s: (s,1)).reduceByKey(lambda x,y: x+y)
 print(result.collect())
 sc.stop()
 
+
