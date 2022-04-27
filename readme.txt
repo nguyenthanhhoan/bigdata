@@ -7,6 +7,10 @@ export SPARK_HOME=/Users/Storage/Soft/spark-3.0.1-bin-hadoop3.2
 export PATH=$SPARK_HOME/bin:$PATH
 export PYSPARK_PYTHON=python3
 
+# if use diferent evironment
+#export PYTHONPATH=$SPARK_HOME/python:$SPARK_HOME/python/lib/py4j-0.10.9-src.zip:$PYTHONPATH
+#export PATH=$SPARK_HOME/BIN:$SPARK_HOME/python:$PATH
+
 jupyter notebook
 
 
