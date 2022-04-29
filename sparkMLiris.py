@@ -2,12 +2,13 @@ from pyspark.sql import SparkSession
 from pyspark.ml.linalg import DenseVector
 
 spark = SparkSession.builder.master("local") \
-                            .appName("dat gi cung duoc") \
-                            .config("spark.executor.memory", "lgb") \
+                            .appName("appMLiris") \
+                            .config("spark.executor.memory", "1gb") \
                             .getOrCreate()
 
 #rdd = sc.textFile('/Users/Storage/Vicohub/Data/Iris.csv’)
-df = spark.read.csv('/Users/Storage/Vicohub/Data/Iris.csv', header=True)
+#df = spark.read.csv('/Users/Storage/Vicohub/Data/Iris.csv', header=True)
+df = spark.read.csv('hdfs://localhost:9000/iris.csv', header=True)
 input_data = df.rdd.map(lambda x: (DenseVector(x[:4]), x[4]))
 df1 = spark.createDataFrame(input_data, ["X", "Y"])
 
