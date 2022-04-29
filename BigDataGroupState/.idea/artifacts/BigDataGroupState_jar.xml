@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BigDataGroupState:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BigDataGroupState_jar</output-path>
+    <root id="archive" name="BigDataGroupState.jar">
+      <element id="module-output" name="BigDataGroupState" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.8.0/kafka-clients-2.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/luben/zstd-jni/1.4.4-3/zstd-jni-1.4.4-3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/xerial/snappy/snappy-java/1.1.7.5/snappy-java-1.1.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.1/gson-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/lz4/lz4-java/1.7.1/lz4-java-1.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Storage/Soft/scala-2.12.12/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Storage/Soft/scala-2.12.12/lib/scala-swing_2.12-2.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Storage/Soft/scala-2.12.12/lib/scala-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Storage/Soft/scala-2.12.12/lib/scala-parser-combinators_2.12-1.0.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Storage/Soft/scala-2.12.12/lib/scala-xml_2.12-1.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
