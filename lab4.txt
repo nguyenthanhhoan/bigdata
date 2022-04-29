@@ -1,0 +1,8 @@
+
+
+
+
+# lưu ý khi chạy BigDataGroupState, cần reset lại thư mục /Users/Storage/checkpoint do các chương trình cũ sử dụng
+
+# submit spark
+./spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.0.1 --master localhost:7077 ~/home/robusta/soft/BigDataGroupState.jar
