@@ -92,7 +92,7 @@ import org.bigdata.utils.{Util,Message}
         .writeStream
         .trigger(Trigger.ProcessingTime("60 seconds"))
         .format("console")
-        .option("checkpointLocation", "/Users/Storage/checkpoint")
+        .option("checkpointLocation", "hdfs://localhost:9000/Users/Storage/checkpoint")
         .outputMode("update")
 
       /**
